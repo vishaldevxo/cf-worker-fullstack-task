@@ -1,6 +1,6 @@
 name = "my-app"
 type = "javascript"
-account_id = "95f590f4ce9686ffa2b0ebf774644e7f"
+account_id = "MY ID"
 workers_dev = true
 route = ""
 zone_id = ""
