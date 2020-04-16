@@ -19,7 +19,7 @@ I used Cloudflare workers to deploy the script using CLI wrangler,this applicati
 
 ## Preview Link (workers.dev)
 
-[https://my-project.internship.workers.dev/](https://my-project.internship.workers.dev/) 
+[https://my-app.internship.workers.dev/](https://my-project.internship.workers.dev/) 
 
 
 ![page1](https://codeskulls.com/wp-content/uploads/2020/04/page11.png)
